@@ -1,0 +1,7 @@
+server:
+  port: 8881
+  servlet:
+    context-path: /auth
+spring:
+  freemarker:
+    suffix: .ftl

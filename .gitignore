@@ -1,0 +1,3 @@
+# Project exclude paths
+/oauth2-client/target/
+/oauth2-server-20210210/target/
